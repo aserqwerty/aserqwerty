@@ -1,17 +1,19 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=ASERQWERTY&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=00F7FF&animation=fadeIn&fontSize=50" />
-</h1>
-
+<!-- HEADER ANIMATED WAVE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;Java+Backend+Developer;Data+Structures+Enthusiast;Building+Clean+%26+Scalable+Systems;Always+Leveling+Up+🚀" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=ASERQWERTY&fontSize=60&color=0:000000,100:0f2027&stroke=00F7FF&strokeWidth=2&animation=fadeIn" />
+</p>
+
+<!-- GLITCH TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=900&lines=SYSTEM+ONLINE...;INITIALIZING+DEVELOPER+PROFILE...;JAVA+BACKEND+ENGINEER;DATA+STRUCTURES+SPECIALIST;LEVELING+UP+🚀" />
 </p>
 
 ---
 
-## ⚡ About Me
+## ⚡ SYSTEM STATUS
 
 ```diff
 + 🎓 D4 TRPL Student
-+ 💻 Focused on Java & Backend
-+ 📚 Learning Advanced Data Structures
-+ 🚀 Passionate About System Design
++ 💻 Backend & Java Focused
++ 🧠 Advanced Data Structures
++ 🚀 Building Scalable Systems
