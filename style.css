@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background: black;
+  color: #00f7ff;
+  font-family: Orbitron, sans-serif;
+  text-align: center;
+}
+
+.content {
+  position: absolute;
+  top: 40%;
+  width: 100%;
+}
+
+h1 {
+  font-size: 60px;
+  text-shadow: 0 0 20px #00f7ff;
+}
